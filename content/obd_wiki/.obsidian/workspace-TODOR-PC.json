@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "5c4b2257c8e38585",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab0d5878a4cb3b8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2d28bd2bbe8b5d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Colchester.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "903293934ada5eae",
+    "type": "split",
+    "children": [
+      {
+        "id": "77d92f23700485f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7fc3443992d648f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1752a851dc93de14",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a1d554645ef1751c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "368bef14213d590c",
+    "type": "split",
+    "children": [
+      {
+        "id": "43c60f512a781413",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71f034b627cb61a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Locations/Colchester.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9003d914205517f7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Locations/Colchester.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6464f7fa3fe50b20",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "65a74ff54b514a82",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Locations/Colchester.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e2d28bd2bbe8b5d2",
+  "lastOpenFiles": [
+    "Locations/Flottyem.md",
+    "Locations/Isoks.md",
+    "Locations/Colchester.md",
+    "Characters/Sardielr Koskides.md",
+    "Locations/Maidenview.md",
+    "Images/Maps/Colchester.png",
+    "Images/Maps/PostColchester.png",
+    "Images/Maps/Maidenview.png",
+    "Images/Maps/Isoks.png",
+    "Images/Char/Sardielr_Art.jpg",
+    "Images/Maps/Flottyem.jpg",
+    "Sardielr.md",
+    "Untitled.md",
+    "Image.png.md"
+  ]
+}
